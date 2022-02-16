@@ -4,7 +4,7 @@ patient records. The decision tree model then predicts the class of drug (A, B, 
 1. Set the working directory to the directory where your drug200 csv file is stored.
  This involves modifying this line in the code: "pd.read_csv(r"D:\Data\drug200.csv")"
 
-2. To get the decision tree to run properly, you have download the following packages within youy
+2. To get the decision tree to run properly, you have to download the following packages within youy
   jupyter notebook:
  (i) pydotplus
  (ii)graphviz
